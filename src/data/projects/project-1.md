@@ -1,6 +1,6 @@
 ---
 #preview
-title: Interior design studio
+title: الداخلي 
 image: /img/covers/1.jpg
 category: Architecture
 category_slug: architecture
