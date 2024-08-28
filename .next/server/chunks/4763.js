@@ -10188,7 +10188,7 @@ _export(exports, {
         return canSegmentBeOverridden;
     }
 });
-const _getsegmentparam = __webpack_require__(61090);
+const _getsegmentparam = __webpack_require__(95232);
 const matchSegment = (existingSegment, segment)=>{
     // Common case: segment is just a string
     if (typeof existingSegment === "string" && typeof segment === "string") {
@@ -14032,7 +14032,7 @@ function createProxy(moduleId) {
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy  } = __webpack_require__(35985);
-module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\client\\components\\app-router.js");
+module.exports = createProxy("C:\\1231\\react-comp\\node_modules\\next\\dist\\client\\components\\app-router.js");
  //# sourceMappingURL=app-router.js.map
 
 
@@ -14044,7 +14044,7 @@ module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\client\
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy  } = __webpack_require__(35985);
-module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\client\\components\\error-boundary.js");
+module.exports = createProxy("C:\\1231\\react-comp\\node_modules\\next\\dist\\client\\components\\error-boundary.js");
  //# sourceMappingURL=error-boundary.js.map
 
 
@@ -14056,7 +14056,7 @@ module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\client\
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy  } = __webpack_require__(35985);
-module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\client\\components\\layout-router.js");
+module.exports = createProxy("C:\\1231\\react-comp\\node_modules\\next\\dist\\client\\components\\layout-router.js");
  //# sourceMappingURL=layout-router.js.map
 
 
@@ -14068,7 +14068,7 @@ module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\client\
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy  } = __webpack_require__(35985);
-module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js");
+module.exports = createProxy("C:\\1231\\react-comp\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js");
  //# sourceMappingURL=render-from-template-context.js.map
 
 
@@ -14116,7 +14116,7 @@ if ((typeof exports.default === "function" || typeof exports.default === "object
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy  } = __webpack_require__(35985);
-module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js");
+module.exports = createProxy("C:\\1231\\react-comp\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js");
  //# sourceMappingURL=static-generation-searchparams-bailout-provider.js.map
 
 
@@ -14128,7 +14128,7 @@ module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\client\
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy  } = __webpack_require__(35985);
-module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\client\\link.js");
+module.exports = createProxy("C:\\1231\\react-comp\\node_modules\\next\\dist\\client\\link.js");
  //# sourceMappingURL=link.js.map
 
 

@@ -1,8 +1,8 @@
 ---
 #preview details
-title: "Interior Decor"
-icon: "/img/icons/3.svg"
-short: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua."
+title: "Web Development"
+icon: "/img/icons/web-dev.svg"
+short: "Enhance your digital presence with our expert web development services, designed to meet your needs."
 
 #full details
 
@@ -10,86 +10,82 @@ description:
   - layout: 1
     title: Description
     content:
-      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden - Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>Contrary to popular belief, web development is not just about writing code. It involves a blend of creativity, strategy, and technical skills to build websites that are both functional and visually appealing. Our team utilizes cutting-edge technologies and best practices to craft custom web solutions that cater to your business goals.</p>
+      <p>Our approach integrates user experience (UX) design, responsive web design, and backend development to deliver websites that stand out. We focus on creating seamless digital experiences that engage users and drive results, ensuring your online presence is impactful and effective.</p>
     divider: true
 
   - layout: 2
     title: Benefits
     content:
-      <p>Our architectural work improves people's lives. We work closely with clients to create functional solutions that creatively respond to the needs of individuals and organizations. From corporate facility innovation to commercial developments, we create beautiful, balanced designs fueled by big ideas.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <p>Our web development services enhance your digital presence through innovative design and robust functionality. We work closely with you to ensure your website meets your specific needs and exceeds your expectations. From startup websites to complex enterprise solutions, our expertise ensures high-quality results.</p>
+      <p>Our solutions are tailored to help you achieve your business objectives while providing a superior user experience.</p>
     list:
-      - 3D Modeling
-      - Programs to Map Territory
-      - Robotics and AI Technology
-      - Material Simulation
+      - Custom Web Design
+      - E-commerce Solutions
+      - SEO Optimization
+      - Mobile Responsiveness
     divider: false
 
 sidebar:
   title: Info Areas
   items:
     - layout: list
-      title: Master Planning
+      title: Web Design
       content:
-        - Workplace Consulting
-        - 3D Modeling Planning
-        - Architecture
+        - User Interface (UI) Design
+        - User Experience (UX) Design
+        - Custom Graphics and Branding
 
     - layout: list
-      title: Sustainability & Wellness
+      title: Development Services
       content:
-        - Recreational Parks
-        - Park and Public Squares
-        - Parkland
+        - Front-End Development
+        - Back-End Development
+        - CMS Integration
 
     - layout: values
-      title: Benefits
+      title: Achievements
       content:
         - value: 10
           afterValue: +
           label: Years <br>Experience
         
-        - value: 99
+        - value: 100+
           afterValue: +
-          label: Billion <br>Invested
+          label: Websites <br>Launched
 
-        - value: 10
+        - value: 24/7
           afterValue: +
-          label: Years <br>Experience
-        
-        - value: 99
-          afterValue: +
-          label: Billion <br>Invested
+          label: Support <br>Available
 
     - layout: list
-      title: Project agent
+      title: Contact Person
       content:
-        - Joe French
-        - joe.french@ruizarch.com
-        - (570) 253 - 2853
+        - Alex Johnson
+        - alex.johnson@webdevcompany.com
+        - (123) 456 - 7890
 
 gallery:
-  - image: /img/covers/1.jpg
-    alt: image
+  - image: /img/screenshots/web1.jpg
+    alt: Web Design Example 1
 
-  - image: /img/covers/2.jpg
-    alt: image
+  - image: /img/screenshots/web2.jpg
+    alt: Web Design Example 2
 
-  - image: /img/covers/4.jpg
-    alt: image
+  - image: /img/screenshots/web3.jpg
+    alt: Web Design Example 3
 
 description2:
   - layout: 1
-    title: Perfect Planning
+    title: Comprehensive Solutions
     content:
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>Our web development services encompass everything from initial concept and design to development and ongoing support. We ensure that every aspect of your website is tailored to your needs and optimized for performance and user experience.</p>
     divider: false
 
   - layout: 1
-    title: Approach
+    title: Our Approach
     content:
-      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+      <p>Our approach involves understanding your business needs, designing a tailored solution, developing the website with precision, and providing continuous support to ensure optimal performance. We are dedicated to delivering a product that not only meets but exceeds your expectations.</p>
     divider: true
 
 sidebar2:
@@ -97,36 +93,35 @@ sidebar2:
     - layout: list
       title: Capabilities
       content:
-        - Non dictum quam risus pharetra esta.
-        - Risus pharetra, ullamcorper.
-        - Hac nibh fermentum, condimentum cursus.
-        - Massa volutpat purus sit elementum.
-        - Elit curabitur risus bibendum.
+        - Custom Website Development
+        - E-commerce Integration
+        - SEO and Analytics
+        - Responsive Design
 
     - layout: list
       title: Work Process
       content:
-        - "Listen: Dictum quam risus pharetra esta."
-        - "Strategies: Ullamcorper tincidunt."
-        - "Project Work: Platea condimentum cursus."
-        - "Launch: Massa volutpat elementum."
+        - "Consultation: Understanding your business goals and needs."
+        - "Design: Crafting a user-friendly and visually appealing design."
+        - "Development: Building the website with robust features and functionality."
+        - "Launch: Deploying the site and offering ongoing support and maintenance."
 
 faq:
-  subtitle: Have Some Questions?
-  title: We Can Help!
+  subtitle: Have Questions?
+  title: We're Here to Help!
   button:
-    label: More Questions?
+    label: Contact Us
     link: /contact
   items:
-    - label: General information
-      content: <p>Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    - label: General Information
+      content: <p>Our web development team is here to answer any questions you have about our services and how we can help you achieve your online goals.</p>
 
-    - label: Management of personal data
-      content: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    - label: Website Maintenance
+      content: <p>We offer comprehensive website maintenance services to ensure your site remains functional and up-to-date.</p>
 
-    - label: Does Ruizarch accept article submissions?
-      content: <p>Netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    - label: Custom Features
+      content: <p>We can implement custom features and functionalities to enhance your website's performance and user experience.</p>
 
-    - label: What is the Ruizarch insights app?
-      content: <p>Malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    - label: Support
+      content: <p>Our support team is available to assist with any issues or questions you may have regarding your website.</p>
 ---

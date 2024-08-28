@@ -52,7 +52,7 @@ module.exports = require("next/dist/compiled/react/jsx-runtime");
 
 /***/ }),
 
-/***/ 61090:
+/***/ 95232:
 /***/ ((module) => {
 
 "use strict";
@@ -188,7 +188,7 @@ module.exports = require("url");
 
 /***/ }),
 
-/***/ 20805:
+/***/ 46346:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -253,7 +253,7 @@ __webpack_require__.r(__webpack_exports__);
         'coming-soon',
         {
         children: ['__PAGE__', {}, {
-          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 73641)), "C:\\1231\\hasan\\src\\app\\(coming-soon)\\coming-soon\\page.jsx"],
+          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 73641)), "C:\\1231\\react-comp\\src\\app\\(coming-soon)\\coming-soon\\page.jsx"],
           
         }]
       },
@@ -264,7 +264,7 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 90963)), "C:\\1231\\hasan\\src\\app\\(coming-soon)\\layout.jsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 90963)), "C:\\1231\\react-comp\\src\\app\\(coming-soon)\\layout.jsx"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41764))).default(props))],
     apple: [],
@@ -276,8 +276,8 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\hasan\\src\\app\\layout.jsx"],
-'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\hasan\\src\\app\\not-found.jsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\react-comp\\src\\app\\layout.jsx"],
+'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\react-comp\\src\\app\\not-found.jsx"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41764))).default(props))],
     apple: [],
@@ -288,7 +288,7 @@ __webpack_require__.r(__webpack_exports__);
         }
       ]
       }.children;
-    const pages = ["C:\\1231\\hasan\\src\\app\\(coming-soon)\\coming-soon\\page.jsx"];
+    const pages = ["C:\\1231\\react-comp\\src\\app\\(coming-soon)\\coming-soon\\page.jsx"];
 
     
     
@@ -315,7 +315,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 70380:
+/***/ 12772:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 89222, 23));
@@ -326,14 +326,14 @@ Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_
 
 /***/ }),
 
-/***/ 9933:
+/***/ 62983:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 88552))
 
 /***/ }),
 
-/***/ 65088:
+/***/ 42932:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 69853))
@@ -501,7 +501,7 @@ var app = __webpack_require__(1128);
 var module_proxy = __webpack_require__(35985);
 ;// CONCATENATED MODULE: ./src/app/_layouts/timer/Index.jsx
 
-const proxy = (0,module_proxy.createProxy)(String.raw`C:\1231\hasan\src\app\_layouts\timer\Index.jsx`)
+const proxy = (0,module_proxy.createProxy)(String.raw`C:\1231\react-comp\src\app\_layouts\timer\Index.jsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -641,7 +641,7 @@ const ComingSoonLayouts = ({ children  })=>{
 var __webpack_require__ = require("../../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,9384], () => (__webpack_exec__(20805)));
+var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,4803], () => (__webpack_exec__(46346)));
 module.exports = __webpack_exports__;
 
 })();

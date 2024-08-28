@@ -1,6 +1,6 @@
 ---
 #preview
-title: Interior design studio
+title: الداخلي
 image: /img/covers/1.jpg
 category: Architecture
 category_slug: architecture
@@ -29,7 +29,7 @@ description:
       "
 
 details:
-  title: Info Project
+  title: Info 
   items:
     - label: Location
       value: Los Angeles, California

@@ -52,7 +52,7 @@ module.exports = require("next/dist/compiled/react/jsx-runtime");
 
 /***/ }),
 
-/***/ 61090:
+/***/ 95232:
 /***/ ((module) => {
 
 "use strict";
@@ -212,7 +212,7 @@ module.exports = require("url");
 
 /***/ }),
 
-/***/ 72965:
+/***/ 95948:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -280,7 +280,7 @@ __webpack_require__.r(__webpack_exports__);
         '[id]',
         {
         children: ['__PAGE__', {}, {
-          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 74198)), "C:\\1231\\hasan\\src\\app\\(pages)\\projects\\[id]\\page.jsx"],
+          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 74198)), "C:\\1231\\react-comp\\src\\app\\(pages)\\projects\\[id]\\page.jsx"],
           
         }]
       },
@@ -297,7 +297,7 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 47319)), "C:\\1231\\hasan\\src\\app\\(pages)\\layout.jsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 47319)), "C:\\1231\\react-comp\\src\\app\\(pages)\\layout.jsx"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41764))).default(props))],
     apple: [],
@@ -309,8 +309,8 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\hasan\\src\\app\\layout.jsx"],
-'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\hasan\\src\\app\\not-found.jsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\react-comp\\src\\app\\layout.jsx"],
+'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\react-comp\\src\\app\\not-found.jsx"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41764))).default(props))],
     apple: [],
@@ -321,7 +321,7 @@ __webpack_require__.r(__webpack_exports__);
         }
       ]
       }.children;
-    const pages = ["C:\\1231\\hasan\\src\\app\\(pages)\\projects\\[id]\\page.jsx"];
+    const pages = ["C:\\1231\\react-comp\\src\\app\\(pages)\\projects\\[id]\\page.jsx"];
 
     
     
@@ -348,7 +348,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 14220:
+/***/ 32850:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 3280, 23));
@@ -498,7 +498,7 @@ const BenefitsSection = ()=>{
 const FullImageSlider = app_dynamic_default()(()=>__webpack_require__.e(/* import() */ 2538).then(__webpack_require__.bind(__webpack_require__, 2538)), {
     loadableGenerated: {
         modules: [
-            "C:\\1231\\hasan\\src\\app\\(pages)\\projects\\[id]\\page.jsx -> " + "@components/sliders/FullImage"
+            "C:\\1231\\react-comp\\src\\app\\(pages)\\projects\\[id]\\page.jsx -> " + "@components/sliders/FullImage"
         ]
     },
     ssr: false
@@ -895,7 +895,7 @@ async function getAllProjects() {
 var __webpack_require__ = require("../../../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,5181,3198,117,8312,6427,9384,9070,9279,2578,6536,196], () => (__webpack_exec__(72965)));
+var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,5181,3198,117,8312,6427,4803,2551,9279,2578,5486,196], () => (__webpack_exec__(95948)));
 module.exports = __webpack_exports__;
 
 })();

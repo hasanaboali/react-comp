@@ -1,4 +1,4 @@
-// File: C:\1231\hasan\src\app\(coming-soon)\coming-soon\page.jsx
+// File: C:\1231\react-comp\src\app\(coming-soon)\coming-soon\page.jsx
 import * as entry from '../../../../../src/app/(coming-soon)/coming-soon/page.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

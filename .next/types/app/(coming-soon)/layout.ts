@@ -1,4 +1,4 @@
-// File: C:\1231\hasan\src\app\(coming-soon)\layout.jsx
+// File: C:\1231\react-comp\src\app\(coming-soon)\layout.jsx
 import * as entry from '../../../../src/app/(coming-soon)/layout.js'
 import type { ResolvingMetadata } from 'next/dist/lib/metadata/types/metadata-interface.js'
 

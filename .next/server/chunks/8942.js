@@ -92,7 +92,7 @@ var date = __webpack_require__(27995);
 var module_proxy = __webpack_require__(35985);
 ;// CONCATENATED MODULE: ./src/app/_components/SearchBar.jsx
 
-const proxy = (0,module_proxy.createProxy)(String.raw`C:\1231\hasan\src\app\_components\SearchBar.jsx`)
+const proxy = (0,module_proxy.createProxy)(String.raw`C:\1231\react-comp\src\app\_components\SearchBar.jsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
