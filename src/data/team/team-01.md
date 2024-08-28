@@ -1,7 +1,7 @@
 ---
 #preview details
 image: "/img/faces/1.jpg"
-name: "Charlie Williams"
+name: "Hasan Abo Ali"
 role: "Project Manager"
 category_slug: "executive"
 
@@ -12,13 +12,13 @@ description: "
   "
 
 info:
-   - "Location: Dallas, Texas, USA"
-   - "Experience: 2 Years in the planning industry"
-   - "Phone: + 1 300 3060 30 30"
+   - "Location: DUBAI, UAE"
+   - "Experience: 3 Years in the planning industry"
+   - "Phone: + 971581822821"
 
 social:
-  - link: "https://facebook.com/"
-    label: Facebook
+  - link: "https://www.linkedin.com/in/hasan-abo-ali-a15811281/"
+    label: LINKDIN
 
   - link: "https://twitter.com/"
     label: Twitter
@@ -29,5 +29,5 @@ social:
   - link: "https://youtube.com/"
     label: Youtube
 
-signature: "C.Williams"
+signature: "ABO ALI"
 ---
