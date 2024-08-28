@@ -1,130 +1,131 @@
-# SEO
+---
+#preview details
+title: "Work Space"
+icon: "/img/icons/4.svg"
+short: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua."
 
-## Preview Details
-**Title:** SEO  
-**Icon:** /img/icons/4.svg  
-**Short:** Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua.
+#full details
+description:
+  - layout: 1
+    title: Description
+    content:
+      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden - Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
+      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+    divider: true
 
-## Full Details
+  - layout: 2
+    title: Benefits
+    content:
+      <p>Our architectural work improves people's lives. We work closely with clients to create functional solutions that creatively respond to the needs of individuals and organizations. From corporate facility innovation to commercial developments, we create beautiful, balanced designs fueled by big ideas.</p>
+      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+    list:
+      - 3D Modeling
+      - Programs to Map Territory
+      - Robotics and AI Technology
+      - Material Simulation
+    divider: false
 
-### Description
-- **Layout:** 1
-- **Title:** Description
-- **Content:**
-  <p>Search Engine Optimization (SEO) is a crucial aspect of digital marketing aimed at enhancing a website's visibility in search engine results. By optimizing various elements of a website, we ensure it ranks higher on search engines like Google, increasing organic traffic and attracting potential customers. Our SEO services focus on improving your website's structure, content, and keywords to achieve the best results.</p>
-  <p>Our approach to SEO is comprehensive, involving both on-page and off-page strategies. On-page SEO includes optimizing individual pages to rank higher and earn more relevant traffic. Off-page SEO involves enhancing the website's authority through external links and other methods. By leveraging the latest techniques and best practices, we ensure your website stands out in search results and drives meaningful traffic.</p>
-- **Divider:** true
+sidebar:
+  title: Info Areas
+  items:
+    - layout: list
+      title: Master Planning
+      content:
+        - Workplace Consulting
+        - 3D Modeling Planning
+        - Architecture
 
-### Benefits
-- **Layout:** 2
-- **Title:** Benefits
-- **Content:**
-  <p>Effective SEO not only increases your website's visibility but also improves user experience, driving more engaged traffic to your site. With our tailored SEO strategies, you can expect:</p>
-  <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
-- **List:**
-  - Higher Search Engine Rankings
-  - Increased Organic Traffic
-  - Enhanced User Experience
-  - Improved Brand Credibility
-- **Divider:** false
+    - layout: list
+      title: Sustainability & Wellness
+      content:
+        - Recreational Parks
+        - Park and Public Squares
+        - Parkland
 
-### Sidebar
-- **Title:** SEO Services
-- **Items:**
-  - **Layout:** list
-    - **Title:** On-Page SEO
-    - **Content:**
-      - Keyword Research
-      - Content Optimization
-      - Meta Tags and Descriptions
-      - Site Structure and Navigation
+    - layout: values
+      title: Benefits
+      content:
+        - value: 10
+          afterValue: +
+          label: Years <br>Experience
+        
+        - value: 99
+          afterValue: +
+          label: Billion <br>Invested
 
-  - **Layout:** list
-    - **Title:** Off-Page SEO
-    - **Content:**
-      - Backlink Building
-      - Social Media Integration
-      - Online Reputation Management
-      - Influencer Outreach
+        - value: 10
+          afterValue: +
+          label: Years <br>Experience
+        
+        - value: 99
+          afterValue: +
+          label: Billion <br>Invested
 
-  - **Layout:** values
-    - **Title:** Key Metrics
-    - **Content:**
-      - value: 100
-        afterValue: %
-        label: Increase in <br>Organic Traffic
+    - layout: list
+      title: Project agent
+      content:
+        - Joe French
+        - joe.french@ruizarch.com
+        - (570) 253 - 2853
 
-      - value: 50
-        afterValue: +
-        label: Improved <br>Search Rankings
+gallery:
+  - image: /img/covers/1.jpg
+    alt: image
 
-      - value: 30
-        afterValue: %
-        label: Boost in <br>Conversion Rates
+  - image: /img/covers/2.jpg
+    alt: image
 
-  - **Layout:** list
-    - **Title:** SEO Specialist
-    - **Content:**
-      - Tarek
-      - seo@tarektec.com
-      - (123) 456 - 7890
+  - image: /img/covers/4.jpg
+    alt: image
 
-### Gallery
-- **Image:** /img/covers/1.jpg
-  - **Alt:** image
+description2:
+  - layout: 1
+    title: Perfect Planning
+    content:
+      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+    divider: false
 
-- **Image:** /img/covers/2.jpg
-  - **Alt:** image
+  - layout: 1
+    title: Approach
+    content:
+      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+    divider: true
 
-- **Image:** /img/covers/4.jpg
-  - **Alt:** image
+sidebar2:
+  items:
+    - layout: list
+      title: Capabilities
+      content:
+        - Non dictum quam risus pharetra esta.
+        - Risus pharetra, ullamcorper.
+        - Hac nibh fermentum, condimentum cursus.
+        - Massa volutpat purus sit elementum.
+        - Elit curabitur risus bibendum.
 
-### Description2
-- **Layout:** 1
-- **Title:** Proven Strategies
-- **Content:**
-  <p>Our SEO strategies are backed by data and proven methods that ensure long-term success. By analyzing your website's performance and continuously refining our approach, we deliver results that align with your business goals.</p>
-- **Divider:** false
+    - layout: list
+      title: Work Process
+      content:
+        - "Listen: Dictum quam risus pharetra esta."
+        - "Strategies: Ullamcorper tincidunt."
+        - "Project Work: Platea condimentum cursus."
+        - "Launch: Massa volutpat elementum."
 
-- **Layout:** 1
-- **Title:** Approach
-- **Content:**
-  <p>Our approach to SEO is methodical and results-driven. We start with a comprehensive audit of your website to identify areas for improvement. Next, we implement a customized strategy that includes both on-page and off-page optimization techniques. Our ongoing monitoring and reporting ensure that we stay ahead of algorithm changes and continuously improve your search engine rankings.</p>
-- **Divider:** true
+faq:
+  subtitle: Have Some Questions?
+  title: We Can Help!
+  button:
+    label: More Questions?
+    link: /contact
+  items:
+    - label: General information
+      content: <p>Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 
-### Sidebar2
-- **Items:**
-  - **Layout:** list
-    - **Title:** SEO Capabilities
-    - **Content:**
-      - Advanced Keyword Research
-      - Technical SEO Audits
-      - Comprehensive Competitor Analysis
-      - Custom Content Strategies
+    - label: Management of personal data
+      content: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 
-  - **Layout:** list
-    - **Title:** Work Process
-    - **Content:**
-      - "Analyze: Conduct a thorough SEO audit."
-      - "Strategize: Develop a tailored SEO plan."
-      - "Optimize: Implement on-page and off-page techniques."
-      - "Monitor: Track progress and adjust strategies."
+    - label: Does Ruizarch accept article submissions?
+      content: <p>Netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
 
-### FAQ
-- **Subtitle:** Have Some Questions?
-- **Title:** We Can Help!
-- **Button:**
-  - **Label:** More Questions?
-  - **Link:** /contact
-- **Items:**
-  - **Label:** General information
-    - **Content:** <p>Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-
-  - **Label:** SEO Best Practices
-    - **Content:** <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-
-  - **Label:** How long does SEO take to show results?
-    - **Content:** <p>Netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
-
-  - **Label:** What makes a good SEO strategy?
-    - **Content:** <p>Malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    - label: What is the Ruizarch insights app?
+      content: <p>Malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+---
