@@ -1,6 +1,6 @@
 ---
 #preview details
-title: "Interior Decor"
+title: "Mobile Application"
 icon: "/img/icons/3.svg"
 short: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua."
 
