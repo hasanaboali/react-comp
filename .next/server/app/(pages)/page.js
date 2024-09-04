@@ -52,7 +52,7 @@ module.exports = require("next/dist/compiled/react/jsx-runtime");
 
 /***/ }),
 
-/***/ 61090:
+/***/ 95232:
 /***/ ((module) => {
 
 "use strict";
@@ -212,7 +212,7 @@ module.exports = require("url");
 
 /***/ }),
 
-/***/ 12361:
+/***/ 13906:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -274,12 +274,12 @@ __webpack_require__.r(__webpack_exports__);
         '(pages)',
         {
         children: ['__PAGE__', {}, {
-          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 38847)), "C:\\1231\\hasan\\src\\app\\(pages)\\page.jsx"],
+          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 38847)), "C:\\1231\\react-comp\\src\\app\\(pages)\\page.jsx"],
           
         }]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 47319)), "C:\\1231\\hasan\\src\\app\\(pages)\\layout.jsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 47319)), "C:\\1231\\react-comp\\src\\app\\(pages)\\layout.jsx"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41764))).default(props))],
     apple: [],
@@ -291,8 +291,8 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\hasan\\src\\app\\layout.jsx"],
-'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\hasan\\src\\app\\not-found.jsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\react-comp\\src\\app\\layout.jsx"],
+'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\react-comp\\src\\app\\not-found.jsx"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41764))).default(props))],
     apple: [],
@@ -303,7 +303,7 @@ __webpack_require__.r(__webpack_exports__);
         }
       ]
       }.children;
-    const pages = ["C:\\1231\\hasan\\src\\app\\(pages)\\page.jsx"];
+    const pages = ["C:\\1231\\react-comp\\src\\app\\(pages)\\page.jsx"];
 
     
     
@@ -330,24 +330,24 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 38345:
+/***/ 22275:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 89222, 23));
-Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 83751, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 78301, 23));
+Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 5192, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 54765, 23));
-Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 5192, 23))
+Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 83751, 23))
 
 /***/ }),
 
-/***/ 55039:
+/***/ 62389:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 92144, 23));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 42150));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 10785));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 20053, 23));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 42150));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 60774));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 22914))
 
@@ -842,7 +842,7 @@ var projects = __webpack_require__(52578);
 var module_proxy = __webpack_require__(35985);
 ;// CONCATENATED MODULE: ./src/app/_components/sections/HeroOne.jsx
 
-const proxy = (0,module_proxy.createProxy)(String.raw`C:\1231\hasan\src\app\_components\sections\HeroOne.jsx`)
+const proxy = (0,module_proxy.createProxy)(String.raw`C:\1231\react-comp\src\app\_components\sections\HeroOne.jsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -855,7 +855,7 @@ const __default__ = proxy.default;
 /* harmony default export */ const HeroOne = (__default__);
 ;// CONCATENATED MODULE: ./src/app/_components/sections/About.jsx
 
-const About_proxy = (0,module_proxy.createProxy)(String.raw`C:\1231\hasan\src\app\_components\sections\About.jsx`)
+const About_proxy = (0,module_proxy.createProxy)(String.raw`C:\1231\react-comp\src\app\_components\sections\About.jsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1278,7 +1278,7 @@ const HowWeWorkSection = ()=>{
 var LatestPosts = __webpack_require__(46732);
 ;// CONCATENATED MODULE: ./src/app/_components/sections/Cores.jsx
 
-const Cores_proxy = (0,module_proxy.createProxy)(String.raw`C:\1231\hasan\src\app\_components\sections\Cores.jsx`)
+const Cores_proxy = (0,module_proxy.createProxy)(String.raw`C:\1231\react-comp\src\app\_components\sections\Cores.jsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -1308,7 +1308,7 @@ const Cores_default_ = Cores_proxy.default;
 const PartnersSlider = app_dynamic_default()(()=>__webpack_require__.e(/* import() */ 6331).then(__webpack_require__.bind(__webpack_require__, 76331)), {
     loadableGenerated: {
         modules: [
-            "C:\\1231\\hasan\\src\\app\\(pages)\\page.jsx -> " + "@components/sliders/Partners"
+            "C:\\1231\\react-comp\\src\\app\\(pages)\\page.jsx -> " + "@components/sliders/Partners"
         ]
     },
     ssr: false
@@ -1373,7 +1373,7 @@ async function getAllProjects() {
 var __webpack_require__ = require("../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,5181,6746,8312,6427,4522,9384,9070,9897,9279,2578,2914,6732], () => (__webpack_exec__(12361)));
+var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,5181,6746,8312,6427,4522,4803,2551,9897,9279,2578,2914,6732], () => (__webpack_exec__(13906)));
 module.exports = __webpack_exports__;
 
 })();

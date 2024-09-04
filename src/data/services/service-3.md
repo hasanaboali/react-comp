@@ -1,94 +1,90 @@
 ---
 #preview details
-title: "Home Concept"
-icon: "/img/icons/4.svg"
-short: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua."
+title: "Copywriting & Translation"
+icon: "/img/icons/copywriting.svg"
+short: "Craft compelling messages and translate them effectively with our professional copywriting and translation services."
 
 #full details
 description:
   - layout: 1
     title: Description
     content:
-      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden - Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>Effective copywriting and translation are essential for communicating your brand's message across different markets. Our team specializes in creating engaging, persuasive copy that resonates with your audience while ensuring accurate and culturally sensitive translations. With years of experience in the industry, we provide services that help you connect with your audience and expand your reach globally.</p>
+      <p>We offer a range of services, including content creation, brand messaging, and multi-language translations. Our goal is to deliver high-quality, impactful content that drives engagement and supports your business objectives.</p>
     divider: true
 
   - layout: 2
     title: Benefits
     content:
-      <p>Our architectural work improves people's lives. We work closely with clients to create functional solutions that creatively respond to the needs of individuals and organizations. From corporate facility innovation to commercial developments, we create beautiful, balanced designs fueled by big ideas.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <p>Our copywriting and translation services enhance your brand's ability to communicate effectively across various platforms and languages. By combining creativity with linguistic precision, we ensure that your messages are both compelling and accurate.</p>
+      <p>From crafting persuasive marketing materials to translating complex documents, we provide solutions that meet your needs and help you achieve your communication goals.</p>
     list:
-      - 3D Modeling
-      - Programs to Map Territory
-      - Robotics and AI Technology
-      - Material Simulation
+      - Brand Messaging
+      - Marketing Copy
+      - Website Content
+      - Multi-Language Translation
     divider: false
 
 sidebar:
   title: Info Areas
   items:
     - layout: list
-      title: Master Planning
+      title: Copywriting
       content:
-        - Workplace Consulting
-        - 3D Modeling Planning
-        - Architecture
+        - Website Content
+        - SEO Writing
+        - Advertising Copy
 
     - layout: list
-      title: Sustainability & Wellness
+      title: Translation
       content:
-        - Recreational Parks
-        - Park and Public Squares
-        - Parkland
+        - Document Translation
+        - Website Localization
+        - Multilingual Marketing Materials
 
     - layout: values
-      title: Benefits
+      title: Expertise
       content:
-        - value: 10
+        - value: 8
           afterValue: +
           label: Years <br>Experience
         
-        - value: 99
+        - value: 50+
           afterValue: +
-          label: Billion <br>Invested
+          label: Languages <br>Supported
 
-        - value: 10
+        - value: 500+
           afterValue: +
-          label: Years <br>Experience
-        
-        - value: 99
-          afterValue: +
-          label: Billion <br>Invested
+          label: Projects <br>Completed
 
     - layout: list
-      title: Project agent
+      title: Contact Person
       content:
-        - Joe French
-        - joe.french@ruizarch.com
-        - (570) 253 - 2853
+        - Laura Mitchell
+        - laura.mitchell@copytranslation.com
+        - (555) 123 - 4567
 
 gallery:
-  - image: /img/covers/1.jpg
-    alt: image
+  - image: /img/covers/copywriting1.jpg
+    alt: Copywriting Example 1
 
-  - image: /img/covers/2.jpg
-    alt: image
+  - image: /img/covers/copywriting2.jpg
+    alt: Copywriting Example 2
 
-  - image: /img/covers/4.jpg
-    alt: image
+  - image: /img/covers/copywriting3.jpg
+    alt: Translation Example 1
 
 description2:
   - layout: 1
-    title: Perfect Planning
+    title: Professional Writing
     content:
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>Our copywriting services are designed to capture your brand's voice and deliver clear, persuasive messages. Whether you need engaging website content, compelling ad copy, or SEO-optimized text, our team provides high-quality writing tailored to your specific needs.</p>
     divider: false
 
   - layout: 1
-    title: Approach
+    title: Accurate Translation
     content:
-      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+      <p>Translation is more than just converting text from one language to another. It involves understanding cultural nuances and context to ensure your message is conveyed accurately and effectively. Our translation services guarantee that your content maintains its integrity and resonates with diverse audiences.</p>
     divider: true
 
 sidebar2:
@@ -96,36 +92,35 @@ sidebar2:
     - layout: list
       title: Capabilities
       content:
-        - Non dictum quam risus pharetra esta.
-        - Risus pharetra, ullamcorper.
-        - Hac nibh fermentum, condimentum cursus.
-        - Massa volutpat purus sit elementum.
-        - Elit curabitur risus bibendum.
+        - Creative Copywriting
+        - Accurate Translation
+        - SEO and Marketing Text
+        - Localization Services
 
     - layout: list
       title: Work Process
       content:
-        - "Listen: Dictum quam risus pharetra esta."
-        - "Strategies: Ullamcorper tincidunt."
-        - "Project Work: Platea condimentum cursus."
-        - "Launch: Massa volutpat elementum."
+        - "Consultation: Understanding your needs and objectives."
+        - "Strategy: Developing a tailored content and translation plan."
+        - "Execution: Creating and translating content with precision."
+        - "Review: Ensuring quality and accuracy before delivery."
 
 faq:
-  subtitle: Have Some Questions?
-  title: We Can Help!
+  subtitle: Have Questions?
+  title: We're Here to Assist!
   button:
-    label: More Questions?
+    label: Get in Touch
     link: /contact
   items:
-    - label: General information
-      content: <p>Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    - label: General Information
+      content: <p>Learn more about our copywriting and translation services and how they can benefit your business.</p>
 
-    - label: Management of personal data
-      content: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    - label: Custom Content Solutions
+      content: <p>We offer personalized solutions to meet your specific copywriting and translation needs. Contact us to discuss your project.</p>
 
-    - label: Does Ruizarch accept article submissions?
-      content: <p>Netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    - label: Multilingual Support
+      content: <p>Our translation services cover a wide range of languages. Find out more about our capabilities and language options.</p>
 
-    - label: What is the Ruizarch insights app?
-      content: <p>Malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    - label: Quality Assurance
+      content: <p>We prioritize quality in all our services. Discover how we ensure accuracy and effectiveness in our copywriting and translation projects.</p>
 ---

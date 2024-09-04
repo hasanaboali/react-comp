@@ -312,7 +312,7 @@ const ProcessSlider = ({ bgStyle ="default" , paddingTop ="120"  })=>{
 
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy  } = __webpack_require__(35985);
-module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js");
+module.exports = createProxy("C:\\1231\\react-comp\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js");
  //# sourceMappingURL=dynamic-no-ssr.js.map
 
 
@@ -327,7 +327,7 @@ module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\shared\
 /* unused harmony exports __esModule, $$typeof */
 /* harmony import */ var next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__ = __webpack_require__(35985);
 
-const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\1231\hasan\src\app\_components\sections\Awards.jsx`)
+const proxy = (0,next_dist_build_webpack_loaders_next_flight_loader_module_proxy__WEBPACK_IMPORTED_MODULE_0__.createProxy)(String.raw`C:\1231\react-comp\src\app\_components\sections\Awards.jsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export

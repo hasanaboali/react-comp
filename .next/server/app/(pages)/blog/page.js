@@ -52,7 +52,7 @@ module.exports = require("next/dist/compiled/react/jsx-runtime");
 
 /***/ }),
 
-/***/ 61090:
+/***/ 95232:
 /***/ ((module) => {
 
 "use strict";
@@ -212,7 +212,7 @@ module.exports = require("url");
 
 /***/ }),
 
-/***/ 31263:
+/***/ 16870:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -277,7 +277,7 @@ __webpack_require__.r(__webpack_exports__);
         'blog',
         {
         children: ['__PAGE__', {}, {
-          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 67764)), "C:\\1231\\hasan\\src\\app\\(pages)\\blog\\page.jsx"],
+          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 67764)), "C:\\1231\\react-comp\\src\\app\\(pages)\\blog\\page.jsx"],
           
         }]
       },
@@ -288,7 +288,7 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 47319)), "C:\\1231\\hasan\\src\\app\\(pages)\\layout.jsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 47319)), "C:\\1231\\react-comp\\src\\app\\(pages)\\layout.jsx"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41764))).default(props))],
     apple: [],
@@ -300,8 +300,8 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\hasan\\src\\app\\layout.jsx"],
-'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\hasan\\src\\app\\not-found.jsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\react-comp\\src\\app\\layout.jsx"],
+'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\react-comp\\src\\app\\not-found.jsx"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41764))).default(props))],
     apple: [],
@@ -312,7 +312,7 @@ __webpack_require__.r(__webpack_exports__);
         }
       ]
       }.children;
-    const pages = ["C:\\1231\\hasan\\src\\app\\(pages)\\blog\\page.jsx"];
+    const pages = ["C:\\1231\\react-comp\\src\\app\\(pages)\\blog\\page.jsx"];
 
     
     
@@ -339,7 +339,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 61867:
+/***/ 99458:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 20053, 23));
@@ -491,7 +491,7 @@ async function getAllPosts() {
 var __webpack_require__ = require("../../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,5181,6746,9384,9070,5194,9897,8942,4669,1273], () => (__webpack_exec__(31263)));
+var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,5181,6746,4803,2551,2554,9897,8942,4669,1273], () => (__webpack_exec__(16870)));
 module.exports = __webpack_exports__;
 
 })();
