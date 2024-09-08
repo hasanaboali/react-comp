@@ -52,7 +52,7 @@ module.exports = require("next/dist/compiled/react/jsx-runtime");
 
 /***/ }),
 
-/***/ 61090:
+/***/ 95232:
 /***/ ((module) => {
 
 "use strict";
@@ -188,7 +188,7 @@ module.exports = require("url");
 
 /***/ }),
 
-/***/ 28807:
+/***/ 77865:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -264,8 +264,8 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\hasan\\src\\app\\layout.jsx"],
-'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\hasan\\src\\app\\not-found.jsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\react-comp\\src\\app\\layout.jsx"],
+'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\react-comp\\src\\app\\not-found.jsx"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41764))).default(props))],
     apple: [],
@@ -303,7 +303,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 70380:
+/***/ 12772:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 89222, 23));
@@ -321,7 +321,7 @@ Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_
 var __webpack_require__ = require("../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,9384], () => (__webpack_exec__(28807)));
+var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,4803], () => (__webpack_exec__(77865)));
 module.exports = __webpack_exports__;
 
 })();

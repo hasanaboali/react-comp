@@ -52,7 +52,7 @@ module.exports = require("next/dist/compiled/react/jsx-runtime");
 
 /***/ }),
 
-/***/ 61090:
+/***/ 95232:
 /***/ ((module) => {
 
 "use strict";
@@ -212,7 +212,7 @@ module.exports = require("url");
 
 /***/ }),
 
-/***/ 7951:
+/***/ 1916:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -277,7 +277,7 @@ __webpack_require__.r(__webpack_exports__);
         'search',
         {
         children: ['__PAGE__', {}, {
-          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 80179)), "C:\\1231\\hasan\\src\\app\\(pages)\\search\\page.jsx"],
+          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 80179)), "C:\\1231\\react-comp\\src\\app\\(pages)\\search\\page.jsx"],
           
         }]
       },
@@ -288,7 +288,7 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 47319)), "C:\\1231\\hasan\\src\\app\\(pages)\\layout.jsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 47319)), "C:\\1231\\react-comp\\src\\app\\(pages)\\layout.jsx"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41764))).default(props))],
     apple: [],
@@ -300,8 +300,8 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\hasan\\src\\app\\layout.jsx"],
-'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\hasan\\src\\app\\not-found.jsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\react-comp\\src\\app\\layout.jsx"],
+'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\react-comp\\src\\app\\not-found.jsx"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41764))).default(props))],
     apple: [],
@@ -312,7 +312,7 @@ __webpack_require__.r(__webpack_exports__);
         }
       ]
       }.children;
-    const pages = ["C:\\1231\\hasan\\src\\app\\(pages)\\search\\page.jsx"];
+    const pages = ["C:\\1231\\react-comp\\src\\app\\(pages)\\search\\page.jsx"];
 
     
     
@@ -339,13 +339,13 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 17993:
+/***/ 52718:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 26528));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 55052));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 20053, 23));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 11281))
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 11281));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 55052))
 
 /***/ }),
 
@@ -483,7 +483,7 @@ var jsx_runtime_ = __webpack_require__(56786);
 var module_proxy = __webpack_require__(35985);
 ;// CONCATENATED MODULE: ./src/app/_components/FilteredBlog.jsx
 
-const proxy = (0,module_proxy.createProxy)(String.raw`C:\1231\hasan\src\app\_components\FilteredBlog.jsx`)
+const proxy = (0,module_proxy.createProxy)(String.raw`C:\1231\react-comp\src\app\_components\FilteredBlog.jsx`)
 
 // Accessing the __esModule property and exporting $$typeof are required here.
 // The __esModule getter forces the proxy target to create the default export
@@ -570,7 +570,7 @@ async function Search() {
 var __webpack_require__ = require("../../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,5181,6746,6609,9384,9070,5194,9897,8942], () => (__webpack_exec__(7951)));
+var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,5181,6746,6609,4803,2551,2554,9897,8942], () => (__webpack_exec__(1916)));
 module.exports = __webpack_exports__;
 
 })();

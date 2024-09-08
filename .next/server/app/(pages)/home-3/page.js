@@ -52,7 +52,7 @@ module.exports = require("next/dist/compiled/react/jsx-runtime");
 
 /***/ }),
 
-/***/ 61090:
+/***/ 95232:
 /***/ ((module) => {
 
 "use strict";
@@ -212,7 +212,7 @@ module.exports = require("url");
 
 /***/ }),
 
-/***/ 75434:
+/***/ 96789:
 /***/ ((__unused_webpack_module, __webpack_exports__, __webpack_require__) => {
 
 "use strict";
@@ -277,7 +277,7 @@ __webpack_require__.r(__webpack_exports__);
         'home-3',
         {
         children: ['__PAGE__', {}, {
-          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 71754)), "C:\\1231\\hasan\\src\\app\\(pages)\\home-3\\page.jsx"],
+          page: [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 71754)), "C:\\1231\\react-comp\\src\\app\\(pages)\\home-3\\page.jsx"],
           
         }]
       },
@@ -288,7 +288,7 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 47319)), "C:\\1231\\hasan\\src\\app\\(pages)\\layout.jsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 47319)), "C:\\1231\\react-comp\\src\\app\\(pages)\\layout.jsx"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41764))).default(props))],
     apple: [],
@@ -300,8 +300,8 @@ __webpack_require__.r(__webpack_exports__);
       ]
       },
         {
-          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\hasan\\src\\app\\layout.jsx"],
-'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\hasan\\src\\app\\not-found.jsx"],
+          'layout': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 2295)), "C:\\1231\\react-comp\\src\\app\\layout.jsx"],
+'not-found': [() => Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 51656)), "C:\\1231\\react-comp\\src\\app\\not-found.jsx"],
           metadata: {
     icon: [(async (props) => (await Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 41764))).default(props))],
     apple: [],
@@ -312,7 +312,7 @@ __webpack_require__.r(__webpack_exports__);
         }
       ]
       }.children;
-    const pages = ["C:\\1231\\hasan\\src\\app\\(pages)\\home-3\\page.jsx"];
+    const pages = ["C:\\1231\\react-comp\\src\\app\\(pages)\\home-3\\page.jsx"];
 
     
     
@@ -339,7 +339,7 @@ __webpack_require__.r(__webpack_exports__);
 
 /***/ }),
 
-/***/ 70380:
+/***/ 12772:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 89222, 23));
@@ -350,14 +350,14 @@ Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_
 
 /***/ }),
 
-/***/ 85414:
+/***/ 66347:
 /***/ ((__unused_webpack_module, __unused_webpack_exports, __webpack_require__) => {
 
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 92144, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.t.bind(__webpack_require__, 20053, 23));
 Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 62284));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 84574));
-Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 90105))
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 90105));
+Promise.resolve(/* import() eager */).then(__webpack_require__.bind(__webpack_require__, 84574))
 
 /***/ }),
 
@@ -678,7 +678,7 @@ const RecentProjectsSlider = ()=>{
 "use strict";
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy  } = __webpack_require__(35985);
-module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js");
+module.exports = createProxy("C:\\1231\\react-comp\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js");
  //# sourceMappingURL=dynamic-no-ssr.js.map
 
 
@@ -1308,7 +1308,7 @@ var LatestPosts = __webpack_require__(46732);
 const HeroTwoSlider = app_dynamic_default()(()=>__webpack_require__.e(/* import() */ 4742).then(__webpack_require__.bind(__webpack_require__, 24742)), {
     loadableGenerated: {
         modules: [
-            "C:\\1231\\hasan\\src\\app\\(pages)\\home-3\\page.jsx -> " + "@components/sliders/HeroTwo"
+            "C:\\1231\\react-comp\\src\\app\\(pages)\\home-3\\page.jsx -> " + "@components/sliders/HeroTwo"
         ]
     },
     ssr: false
@@ -1316,7 +1316,7 @@ const HeroTwoSlider = app_dynamic_default()(()=>__webpack_require__.e(/* import(
 const TestimonialSlider = app_dynamic_default()(()=>__webpack_require__.e(/* import() */ 7962).then(__webpack_require__.bind(__webpack_require__, 97962)), {
     loadableGenerated: {
         modules: [
-            "C:\\1231\\hasan\\src\\app\\(pages)\\home-3\\page.jsx -> " + "@components/sliders/Testimonial"
+            "C:\\1231\\react-comp\\src\\app\\(pages)\\home-3\\page.jsx -> " + "@components/sliders/Testimonial"
         ]
     },
     ssr: false
@@ -1324,7 +1324,7 @@ const TestimonialSlider = app_dynamic_default()(()=>__webpack_require__.e(/* imp
 const RecentProjectsSlider = app_dynamic_default()(()=>__webpack_require__.e(/* import() */ 2022).then(__webpack_require__.bind(__webpack_require__, 92022)), {
     loadableGenerated: {
         modules: [
-            "C:\\1231\\hasan\\src\\app\\(pages)\\home-3\\page.jsx -> " + "@components/sliders/RecentProjects"
+            "C:\\1231\\react-comp\\src\\app\\(pages)\\home-3\\page.jsx -> " + "@components/sliders/RecentProjects"
         ]
     },
     ssr: false
@@ -1386,7 +1386,7 @@ module.exports = JSON.parse('{"e":[{"image":"/img/partners/1.png","alt":"logo"},
 var __webpack_require__ = require("../../../webpack-runtime.js");
 __webpack_require__.C(exports);
 var __webpack_exec__ = (moduleId) => (__webpack_require__(__webpack_require__.s = moduleId))
-var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,5181,6746,8312,6427,9384,9070,9897,9279,2284,6732], () => (__webpack_exec__(75434)));
+var __webpack_exports__ = __webpack_require__.X(0, [4859,4763,5181,6746,8312,6427,4803,2551,9897,9279,2284,6732], () => (__webpack_exec__(96789)));
 module.exports = __webpack_exports__;
 
 })();

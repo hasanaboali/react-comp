@@ -305,7 +305,7 @@ if ((typeof exports.default === "function" || typeof exports.default === "object
 
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy  } = __webpack_require__(35985);
-module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js");
+module.exports = createProxy("C:\\1231\\react-comp\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js");
  //# sourceMappingURL=app-router-context.js.map
 
 
@@ -316,7 +316,7 @@ module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\shared\
 
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy  } = __webpack_require__(35985);
-module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js");
+module.exports = createProxy("C:\\1231\\react-comp\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js");
  //# sourceMappingURL=hooks-client-context.js.map
 
 
@@ -327,7 +327,7 @@ module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\shared\
 
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy  } = __webpack_require__(35985);
-module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js");
+module.exports = createProxy("C:\\1231\\react-comp\\node_modules\\next\\dist\\shared\\lib\\lazy-dynamic\\dynamic-no-ssr.js");
  //# sourceMappingURL=dynamic-no-ssr.js.map
 
 
@@ -338,7 +338,7 @@ module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\shared\
 
 /* __next_internal_client_entry_do_not_use__  cjs */ 
 const { createProxy  } = __webpack_require__(35985);
-module.exports = createProxy("C:\\1231\\hasan\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js");
+module.exports = createProxy("C:\\1231\\react-comp\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js");
  //# sourceMappingURL=server-inserted-html.js.map
 
 

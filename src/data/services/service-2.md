@@ -1,94 +1,90 @@
 ---
 #preview details
-title: "Design & Planning"
-icon: "/img/icons/5.svg"
-short: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod labore aliqua."
+title: "Marketing & Branding"
+icon: "/img/icons/marketing.svg"
+short: "Enhance your brand's visibility and impact with our strategic marketing and branding services."
 
 #full details
 description:
   - layout: 1
     title: Description
     content:
-      <p>Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden - Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical literature, discovered the undoubtable source. Lorem Ipsum comes from sections 1.10.32 and 1.10.33 of "de Finibus Bonorum et Malorum" (The Extremes of Good and Evil) by Cicero, written in 45 BC. This book is a treatise on the theory of ethics, very popular during the Renaissance. The first line of Lorem Ipsum, "Lorem ipsum dolor sit amet..", comes from a line in section 1.10.32.</p>
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>Contrary to popular belief, effective marketing and branding are not just about catchy slogans or eye-catching designs. They involve a deep understanding of your target audience, strategic planning, and consistent execution to build a strong, memorable brand presence. Our approach combines creative strategies with data-driven insights to craft compelling marketing campaigns that resonate with your audience and drive results.</p>
+      <p>Our services encompass a range of marketing strategies, including digital marketing, content creation, social media management, and brand development. We focus on creating cohesive brand messages and innovative marketing solutions that enhance your brand’s identity and market position.</p>
     divider: true
 
   - layout: 2
     title: Benefits
     content:
-      <p>Our architectural work improves people's lives. We work closely with clients to create functional solutions that creatively respond to the needs of individuals and organizations. From corporate facility innovation to commercial developments, we create beautiful, balanced designs fueled by big ideas.</p>
-      <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.</p>
+      <p>Our marketing and branding services are designed to elevate your brand’s presence and achieve your business goals. We collaborate with you to develop strategies that not only attract but also retain customers. Our data-driven approach ensures that your marketing efforts are optimized for maximum impact.</p>
+      <p>From developing your brand identity to executing targeted marketing campaigns, we provide end-to-end solutions that drive growth and build brand loyalty.</p>
     list:
-      - 3D Modeling
-      - Programs to Map Territory
-      - Robotics and AI Technology
-      - Material Simulation
+      - Brand Strategy
+      - Digital Marketing
+      - Content Creation
+      - Social Media Management
     divider: false
 
 sidebar:
   title: Info Areas
   items:
     - layout: list
-      title: Master Planning
+      title: Brand Development
       content:
-        - Workplace Consulting
-        - 3D Modeling Planning
-        - Architecture
+        - Brand Identity Design
+        - Messaging & Positioning
+        - Market Research
 
     - layout: list
-      title: Sustainability & Wellness
+      title: Digital Marketing
       content:
-        - Recreational Parks
-        - Park and Public Squares
-        - Parkland
+        - SEO & SEM
+        - Content Marketing
+        - Email Campaigns
 
     - layout: values
-      title: Benefits
+      title: Achievements
       content:
-        - value: 10
+        - value: 15
           afterValue: +
           label: Years <br>Experience
         
-        - value: 99
+        - value: 500+
           afterValue: +
-          label: Billion <br>Invested
+          label: Brands <br>Developed
 
-        - value: 10
+        - value: 200
           afterValue: +
-          label: Years <br>Experience
-        
-        - value: 99
-          afterValue: +
-          label: Billion <br>Invested
+          label: Campaigns <br>Executed
 
     - layout: list
-      title: Project agent
+      title: Contact Person
       content:
-        - Joe French
-        - joe.french@ruizarch.com
-        - (570) 253 - 2853
+        - Emily Carter
+        - emily.carter@marketingagency.com
+        - (987) 654 - 3210
 
 gallery:
-  - image: /img/covers/1.jpg
-    alt: image
+  - image: /img/covers/marketing1.jpg
+    alt: Marketing Campaign Example 1
 
-  - image: /img/covers/2.jpg
-    alt: image
+  - image: /img/covers/marketing2.jpg
+    alt: Marketing Campaign Example 2
 
-  - image: /img/covers/4.jpg
-    alt: image
+  - image: /img/covers/marketing3.jpg
+    alt: Marketing Campaign Example 3
 
 description2:
   - layout: 1
-    title: Perfect Planning
+    title: Strategic Approach
     content:
-      <p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search for 'lorem ipsum' will uncover many web sites still in their infancy. Various versions have evolved over the years, sometimes by accident, sometimes on purpose (injected humour and the like).</p>
+      <p>Our approach to marketing and branding is strategic and tailored to meet your unique business needs. We start by understanding your brand’s core values and market position, then develop a comprehensive plan that includes creative branding solutions and effective marketing tactics.</p>
     divider: false
 
   - layout: 1
-    title: Approach
+    title: Our Process
     content:
-      <p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+      <p>We follow a structured process to ensure your marketing and branding efforts are successful. This includes research and analysis, strategy development, creative execution, and performance evaluation. Our goal is to provide measurable results and ongoing support to adapt to market changes.</p>
     divider: true
 
 sidebar2:
@@ -96,36 +92,35 @@ sidebar2:
     - layout: list
       title: Capabilities
       content:
-        - Non dictum quam risus pharetra esta.
-        - Risus pharetra, ullamcorper.
-        - Hac nibh fermentum, condimentum cursus.
-        - Massa volutpat purus sit elementum.
-        - Elit curabitur risus bibendum.
+        - Comprehensive Brand Strategy
+        - Targeted Marketing Campaigns
+        - Creative Content Solutions
+        - Data-Driven Insights
 
     - layout: list
       title: Work Process
       content:
-        - "Listen: Dictum quam risus pharetra esta."
-        - "Strategies: Ullamcorper tincidunt."
-        - "Project Work: Platea condimentum cursus."
-        - "Launch: Massa volutpat elementum."
+        - "Discovery: Understanding your brand and goals."
+        - "Strategy: Developing a tailored marketing plan."
+        - "Execution: Implementing creative and strategic solutions."
+        - "Evaluation: Analyzing results and optimizing performance."
 
 faq:
-  subtitle: Have Some Questions?
-  title: We Can Help!
+  subtitle: Have Questions?
+  title: We're Here to Help!
   button:
-    label: More Questions?
+    label: Contact Us
     link: /contact
   items:
-    - label: General information
-      content: <p>Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    - label: General Information
+      content: <p>Our marketing and branding team is available to answer any questions you have about our services and how we can help elevate your brand.</p>
 
-    - label: Management of personal data
-      content: <p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    - label: Custom Branding Solutions
+      content: <p>We offer customized branding solutions to meet your specific needs and goals. Contact us to learn more about how we can create a unique brand identity for you.</p>
 
-    - label: Does Ruizarch accept article submissions?
-      content: <p>Netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    - label: Digital Marketing Strategies
+      content: <p>Our digital marketing services are designed to increase your online visibility and drive engagement. Learn more about our approach to SEO, content marketing, and social media.</p>
 
-    - label: What is the Ruizarch insights app?
-      content: <p>Malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.</p>
+    - label: Ongoing Support
+      content: <p>We provide ongoing support to ensure your marketing and branding efforts continue to deliver results. Reach out to us for any assistance or additional services you may need.</p>
 ---
